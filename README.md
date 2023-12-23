@@ -1,7 +1,6 @@
-### Hi there 👋
 
 ### Hello World 👋
-I am a Computer Science student at Wrocław University of Science and Technology.
+I am a Computer Science student at Wrocław University of Science and Technology. 
 - 🌱 Working on multiple projects using python, Java and Kotlin
 - 💬 Open to networking opportunities and collaborative projects<br>
 <br> **Connect with me**<br><br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/weronika-łoś-62b96325a)<br><br>
